@@ -16,3 +16,13 @@ Using a CSV from Alphabet Soup containing more than 34,000 organizations that ha
     * EIN and NAME are neither targets nor features and are dropped from the dataframe. 
 
 ### Compiling, Training and Evaluating the Model
+
+ * How many neurons, layers and activation functions did you select for your neural network model and why? Were you able to achieve the target model performance? What steps did you take in your attempts to increase model performance?
+
+  * First Attempt - Using only 2 layers, the target model did performance did not reach 75% accuracy (63%)
+  * Second Attempt - Added a 3rd hidden layer and the model performance accuracy went down to 61%. I switched the activation function from 'relu' to 'tanh'. 
+  * Third Attempt - Again, I used 3 layers, but increased the first and third layers neurons by 10. I again used the 'tanh' activation function. This model was much closer to the target model performance of 75%, but it was not able to reach the 75% accuracy that was desired. 
+
+
+### Summary
+In the three attempts, the model failed to reach the target model performance of 75% accuracy. A recommendation for reaching that accuracy or higher would be to add or gather more data to add to the dataset to make it larger. 
