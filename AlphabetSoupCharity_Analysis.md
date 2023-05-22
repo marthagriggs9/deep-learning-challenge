@@ -25,4 +25,4 @@ Using a CSV from Alphabet Soup containing more than 34,000 organizations that ha
 
 
 ### Summary
-In the three attempts, the model failed to reach the target model performance of 75% accuracy. A recommendation for reaching that accuracy or higher would be to add or gather more data to add to the dataset to make it larger. 
+In the three attempts, the model failed to reach the target model performance of 75% accuracy. A recommendation for reaching that accuracy or higher would be to add or gather more data to add to the dataset to make it larger. Using a different classification model (multi-class or multi-label) could also lead to better predicting on whether applicants will be successful if funded by Alphabet Soup. 
