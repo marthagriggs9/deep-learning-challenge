@@ -2,10 +2,11 @@
 
 
 Google Colab Files:
- * [AlphabetSoupCharity](https://github.com/marthagriggs9/deep-learning-challenge/blob/main/AlphabetSoupCharity_colab.ipynb)
- * [AlphabetSoupCharity_Optimization](https://github.com/marthagriggs9/deep-learning-challenge/blob/main/AlphabetSoupCharity_Opitmization_colab.ipynb)
+ * [Alphabet Soup Charity](https://github.com/marthagriggs9/deep-learning-challenge/blob/main/AlphabetSoupCharity_colab.ipynb)
+ * [Alphabet Soup Charity Optimization](https://github.com/marthagriggs9/deep-learning-challenge/blob/main/AlphabetSoupCharity_Opitmization_colab.ipynb)
 
-[Alphabet Soup Charity Analysis](https://github.com/marthagriggs9/deep-learning-challenge/blob/main/AlphabetSoupCharity_Analysis.md)
+Analysis:
+ * [Alphabet Soup Charity Analysis](https://github.com/marthagriggs9/deep-learning-challenge/blob/main/AlphabetSoupCharity_Analysis.md)
 
 ## Background
 
