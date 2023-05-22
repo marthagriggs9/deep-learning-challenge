@@ -1,6 +1,12 @@
 # deep-learning-challenge
 
 
+Google Colab Files:
+ * [AlphabetSoupCharity](https://github.com/marthagriggs9/deep-learning-challenge/blob/main/AlphabetSoupCharity_colab.ipynb)
+ * [AlphabetSoupCharity_Optimization](https://github.com/marthagriggs9/deep-learning-challenge/blob/main/AlphabetSoupCharity_Opitmization_colab.ipynb)
+
+[Alphabet Soup Charity Analysis](https://github.com/marthagriggs9/deep-learning-challenge/blob/main/AlphabetSoupCharity_Analysis.md)
+
 ## Background
 
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best change of success in their ventures. With your knowledge of machine learning and neural networks, you'll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup. 
